@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "shopify-dev": {
+      "command": "shopify-dev-mcp",
+      "args": [],
+      "description": "Shopify Dev MCP - docs, CLI tooling, app development"
+    }
+  },
+  "imports": []
+}
