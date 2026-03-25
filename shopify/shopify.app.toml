@@ -2,7 +2,7 @@
 
 client_id = "e6a29301348896073531e2f92cd3ac3b"
 name = "dropship-mission"
-application_url = "https://example.com"
+application_url = "https://dropship-mission-3rzetw8w2-shane-moores-projects-ef779c1f.vercel.app"
 embedded = true
 
 [build]
@@ -26,4 +26,4 @@ optional_scopes = [ ]
 use_legacy_install_flow = false
 
 [auth]
-redirect_urls = [ "https://example.com/api/auth" ]
+redirect_urls = [ "https://dropship-mission-3rzetw8w2-shane-moores-projects-ef779c1f.vercel.app/api/auth" ]
